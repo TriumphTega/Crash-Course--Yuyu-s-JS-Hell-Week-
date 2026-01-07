@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+#Project {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
